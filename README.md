@@ -6,7 +6,7 @@
 
 测试版 APK 发布在：
 
-<https://github.com/NTF-ZEYZ/rongjihui-releases/releases>
+<https://github.com/NTF-ZEYZ/rongjihui-android/releases>
 
 下载页每次发版更新，Release 附件不限下载次数。
 
